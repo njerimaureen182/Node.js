@@ -1,8 +1,8 @@
 # Node.js
 
-Snippets
+Currently ongoing
 
-# What I learnt
+# What I have learnt
 
 1. How to download and install Node.js on Windows.
 2. How to execute JavaScript on the browser.
